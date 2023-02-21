@@ -8,7 +8,7 @@ class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // TODO: implement build
-    //Colummn y row recibe hijos (children)
+    //variable que se utiliza para contar los clicks
     int contador = 0;
     return Scaffold(
       appBar: AppBar(
